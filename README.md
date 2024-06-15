@@ -11,17 +11,14 @@ In each fork, I wait for the child to finish before corresponding to its parent.
     • Returns true if it is, false otherwise 
     
 `void getMemory(int i, bool graphics, double *prevMemory, char memoryArray[1024])`
-
-    • Get memory 
+• Get memory 
 
 
 `void getUser(char userArray[1024])`
-
     • Gets user information
 
 
 `void getCPU(int i, bool graphics, double *currCPU, double *prevTime, double *prevUtilization, char cpuArray[1024])`
-
     • Get CPU information depending 
 
 

@@ -21,7 +21,6 @@ I used an array of strings to store the information from previous iterations, an
 When doing graphics, my scale used was displaying one ‘#’ or ‘:’ for every difference of 0.1. For example, a difference in 0.2GB would result in 2 characters being displayed.  
 When calculating the zero+, zero-, I considered when the number is 0 < x < 0.01 and -0.01 < x < 0 CPU 
 –  
-To calculate CPU usage, I followed the process given by the Assignment 3 handout.
 When doing graphics, my scaled used was displaying one ‘|’ for every number (i.e. 25.5% is 25 ‘|’)  
 The flags used were:  
 System Usage: --system or -s  
